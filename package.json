@@ -1,0 +1,30 @@
+{
+  "name": "vuets",
+  "private": true,
+  "version": "0.0.0",
+  "devDependencies": {
+    "@types/webpack-env": "^1.13.6",
+    "aspnet-webpack": "^3.0.0",
+    "bootstrap": "^3.3.6",
+    "css-loader": "^1.0.0",
+    "event-source-polyfill": "^0.0.12",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "file-loader": "^1.1.11",
+    "isomorphic-fetch": "^2.2.1",
+    "jquery": "^3.3.1",
+    "style-loader": "^0.21.0",
+    "ts-loader": "^4.4.2",
+    "typescript": "^3.0.1",
+    "uglifyjs-webpack-plugin": "^1.2.7",
+    "url-loader": "^1.0.1",
+    "vue": "^2.5.17",
+    "vue-loader": "^15.2.6",
+    "vue-property-decorator": "^7.0.0",
+    "vue-router": "^3.0.1",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^4.16.4",
+    "webpack-cli": "^3.1.0",
+    "webpack-hot-middleware": "^2.22.3",
+    "webpack-dev-middleware": "^3.1.3"
+  }
+}
