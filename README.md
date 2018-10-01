@@ -2,6 +2,8 @@
 
 This is a modified template based upon official Microsoft.AspNetCore.SpaTemplate::*
 
+**IMPORTANT** It's strongly recommended to use Bootstrap 4.1.2 or newer. It's relatively easy to migrate.
+
 As of now, official template uses Webpack 2 and older NPM packages, and it hasn't been migrated to .Net Core 2.1.
 
 ![snap](https://cdn-images-1.medium.com/max/800/1*4PCyQ7-L4a3igqxOfsjSDA.png)
